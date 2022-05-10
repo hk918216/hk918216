@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm hye gyeong
 
 <!--
 **hk918216/hk918216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
