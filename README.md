@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ## Education
 ### 빅데이터 크리에이터 양성과정
   > 진행 프로젝트
-     - [인구수와 인구이동 통한 지역특성]
-        - https://github.com/hk918216/Mini_Project_1.git
-     - [이륜차 사고 정보 제공]
-         - https://github.com/hk918216/Mini_Project_2.git
-         - https://youtu.be/XeptFbtLlb0
-     - [말하는 일기장]
-         - https://github.com/hk918216/Final_Project.git
+       - [인구수와 인구이동 통한 지역특성]
+          - https://github.com/hk918216/Mini_Project_1.git
+       - [이륜차 사고 정보 제공]
+           - https://github.com/hk918216/Mini_Project_2.git
+           - https://youtu.be/XeptFbtLlb0
+       - [말하는 일기장]
+           - https://github.com/hk918216/Final_Project.git
          - https://youtu.be/IbBLReG15Gs
