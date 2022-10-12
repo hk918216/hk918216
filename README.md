@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm hye gyeong
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=hyegyeong's GitHub)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=hyegyeong'sGitHub)
 <!--
 **hk918216/hk918216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
