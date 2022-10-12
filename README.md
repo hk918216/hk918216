@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋 i'm hye gyeong
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong)
 
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
      - https://github.com/hk918216/Final_Project.git
      - https://youtu.be/IbBLReG15Gs
 
-  </div>
