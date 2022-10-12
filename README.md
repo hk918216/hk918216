@@ -2,7 +2,7 @@
 <div align="center"> Hi there 👋 i'm hye gyeong </div>
 
 <div align="center"> 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong) 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong) 
 </div>
 
 <!--![hk918216's GitHub stats](https://github-readme-stats.vercel.app/api?username=hk918216&show_icons=true&theme=tokyonight)-->
