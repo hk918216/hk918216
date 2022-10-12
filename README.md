@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <hr/>
 
 ## Education
-- 빅데이터 크리에이터 양성과정
+### 빅데이터 크리에이터 양성과정
   > 진행 프로젝트
      - [인구수와 인구이동 통한 지역특성]
         - https://github.com/hk918216/Mini_Project_1.git
