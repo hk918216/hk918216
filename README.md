@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 -->
 
 * Studying
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white","https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
