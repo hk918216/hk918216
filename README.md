@@ -1,6 +1,9 @@
 ### Hi there 👋 i'm hye gyeong
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hk918216)](https://github.com/hk918216/github-readme-stats)
+
+![hk918216's GitHub stats](https://github-readme-stats.vercel.app/api?username=hk918216&show_icons=true&theme=radical)
 <!--
 **hk918216/hk918216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
