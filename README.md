@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 <hr/>
+## Education
