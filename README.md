@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ## Education
 - 빅데이터 크리에이터 양성과정
-  - 진행 프로젝트
+  > 진행 프로젝트
      - [인구수와 인구이동 통한 지역특성]
+        - 
      - [이륜차 사고 정보 제공]
      - [말하는 일기장]
