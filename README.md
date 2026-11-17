@@ -4,12 +4,6 @@ Hi there 👋 i'm hye gyeong
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong) 
 
 
-<!--![hk918216's GitHub stats](https://github-readme-stats.vercel.app/api?username=hk918216&show_icons=true&theme=tokyonight)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hk918216&layout=compact)](https://github.com/hk918216/github-readme-stats)
-<!--
-**hk918216/hk918216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 안녕하세요, 데이터 분석가 성혜경입니다 👋
 
 데이터로 원인을 찾고, 그 결과가 실제 개선으로 이어지도록 분석합니다.
