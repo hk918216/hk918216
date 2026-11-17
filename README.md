@@ -1,7 +1,4 @@
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong) 
-
-
 ## 안녕하세요, 데이터 분석가 성혜경입니다 👋
 
 데이터로 원인을 찾고, 그 결과가 실제 개선으로 이어지도록 분석합니다.
