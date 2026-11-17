@@ -1,3 +1,4 @@
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong)
 
 ## 안녕하세요, 데이터 분석가 성혜경입니다 👋
 
@@ -37,7 +38,4 @@
 ## 📜 Certifications
 
 ADsP (데이터분석 준전문가) · SQLD (SQL 개발자)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyeGyeong)
-
 
